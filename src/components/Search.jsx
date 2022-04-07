@@ -22,6 +22,7 @@ function Search() {
                     onChange={(e)=> setInput(e.target.value)} 
                     type="text" 
                     value={input}
+                    placeholder = {"Search".toString()}
                 />
             </div>
         </Form>
@@ -29,7 +30,7 @@ function Search() {
 }
 
 const Form = styled.form`
-  margin: 1rem 2rem;
+  margin: 0 2rem;
     div {
     position: relative;
     width: min(550px, 100%);
