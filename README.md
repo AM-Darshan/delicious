@@ -62,22 +62,34 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## ``Home Page``
 ![image](https://user-images.githubusercontent.com/67750128/166148317-6463c1dd-1afb-4469-8862-6da5e8dc65fd.png)
+
 <br>
+
 ## ``Vegiterian and Popular section``
 ![image](https://user-images.githubusercontent.com/67750128/166148359-3032ea99-9e7b-4ab1-8b69-353dbf7da06f.png)
+
 <br>
+
 ## ``American cuisine``
 ![image](https://user-images.githubusercontent.com/67750128/166148399-5a761009-610d-44fc-9831-e7ddcf10c219.png)
+
 <br>
+
 ## ``Japanese cuisine``
 ![image](https://user-images.githubusercontent.com/67750128/166148426-34590761-aacc-417f-be39-6e48ff3418f3.png)
+
 <br>
+
 ## ``Thai cuisine``
 ![image](https://user-images.githubusercontent.com/67750128/166148502-1a5da736-3ab2-46dd-9e25-c79003e2534b.png)
+
 <br>
+
 ## ``Italian cuisine``
 ![image](https://user-images.githubusercontent.com/67750128/166148448-07b2a24b-8889-4009-9b63-3f032113f5c7.png)
+
 <br>
+
 ## ``Search Page``
 ![image](https://user-images.githubusercontent.com/67750128/166148478-b513278e-2129-42ef-9606-4e7286110c95.png)
 
