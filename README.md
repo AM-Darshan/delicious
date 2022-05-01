@@ -80,9 +80,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <br>
 ## ``Search Page``
 ![image](https://user-images.githubusercontent.com/67750128/166148478-b513278e-2129-42ef-9606-4e7286110c95.png)
+
 <br>
+
 ## ``Recipe Page``
 ![image](https://user-images.githubusercontent.com/67750128/166148584-48ebb202-e969-4845-b41c-249226946501.png)
+
 <br>
+
 ![image](https://user-images.githubusercontent.com/67750128/166148605-e9a655b5-5ffd-41c6-b57c-48171863446b.png)
 
