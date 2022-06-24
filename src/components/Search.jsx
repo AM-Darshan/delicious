@@ -17,7 +17,7 @@ function Search() {
     return (
         <Form onSubmit={submitHandler}>
             <div>
-                <FaSearch />
+                <FaSearch size={"15px"}/>
                 <input  
                     onChange={(e)=> setInput(e.target.value)} 
                     type="text" 
@@ -30,10 +30,10 @@ function Search() {
 }
 
 const Form = styled.form`
-  margin: 0 2rem;
+  margin: 0 80px;
     div {
     position: relative;
-    width: min(550px, 100%);
+    width: max(500px, 100%);
     margin: 0 auto;
   }
   input {
